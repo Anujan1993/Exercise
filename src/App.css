@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  margin: 50px;
+}
+.card {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.29);
+  transition: 0.2s;
+  margin: 0px 30px 60px;
+}
+.card:hover {
+  box-shadow: 0px 0px 3px 3px rgb(218, 216, 216);
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+li.Nav__item {
+    display: inline;
+    padding: 15px 4%;
+}
+nav.Nav {
+    text-align: center;
+}
+nav.Nav {
+    text-align: center;
+    background-color: #095b80;
+    padding: 15px 0px 1px;
+    color: white !important;
+}
+li.Nav__item a{
+    color:white;
+}
+li.Nav__item a:hover {
+    color: rgb(246, 249, 82);
+    text-decoration: none;
+}
+h1{
+	text-align: center;
+}

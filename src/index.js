@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./pages/App";
 import Intro from "./pages/Intro";
-import Nav from "./pages/Nav";
+import Nav from "./components/navComponent";
 import Guide from "./pages/Guide";
 import Reference from "./pages/Reference";
 import * as serviceWorker from "./serviceWorker";
